@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
