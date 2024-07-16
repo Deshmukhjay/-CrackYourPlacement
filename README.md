@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
@@ -75,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0274-h-index) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
