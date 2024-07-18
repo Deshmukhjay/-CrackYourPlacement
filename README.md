@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
