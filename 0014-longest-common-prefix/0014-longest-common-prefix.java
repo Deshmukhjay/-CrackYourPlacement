@@ -4,15 +4,16 @@ class Solution {
         String str1=strs[0];
         String str2=strs[strs.length-1];
         int i=0;
-    while(i<str1.length()){
-        if(str1.charAt(i)==str2.charAt(i)){
-            i++;
+        // char ch1=str1.charAt(i);
+        // char ch2=str2.charAt(i);
+        while(i<str1.length()){
+            if(str1.charAt(i)==str2.charAt(i)){
+                i++;
+            }
+            else{
+                break;
+            }
         }
-        else {
-            break;
-        }
-
-    }
-    return i==0?"":str1.substring(0,i);
+        return i==0?"":str1.substring(0,i);
     }
 }
