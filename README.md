@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
