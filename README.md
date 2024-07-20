@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0242-valid-anagram) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
