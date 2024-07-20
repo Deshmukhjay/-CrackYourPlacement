@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0135-candy) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Union Find
 |  |
 | ------- |
