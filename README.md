@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
