@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0274-h-index) |
+| [2502-sort-the-people](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 ## Depth-First Search
 |  |
 | ------- |
