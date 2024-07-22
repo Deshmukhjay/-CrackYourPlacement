@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0077-combinations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
