@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
