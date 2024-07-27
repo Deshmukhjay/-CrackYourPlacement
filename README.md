@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0242-valid-anagram) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0079-word-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Breadth-First Search
 |  |
 | ------- |
