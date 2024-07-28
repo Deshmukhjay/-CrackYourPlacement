@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0055-jump-game) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0047-permutations-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Breadth-First Search
