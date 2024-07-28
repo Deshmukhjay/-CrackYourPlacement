@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0135-candy) |
+| [0680-valid-palindrome-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Sorting
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
