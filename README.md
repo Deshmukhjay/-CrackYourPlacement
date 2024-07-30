@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
