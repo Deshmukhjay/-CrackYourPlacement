@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2502-sort-the-people) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Stack
 |  |
 | ------- |
