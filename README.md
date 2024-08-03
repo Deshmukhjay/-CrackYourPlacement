@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0383-ransom-note) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
