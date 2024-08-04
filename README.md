@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0079-word-search) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Binary Indexed Tree
 |  |
