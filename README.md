@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0921-spiral-matrix-iii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0921-spiral-matrix-iii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0921-spiral-matrix-iii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
