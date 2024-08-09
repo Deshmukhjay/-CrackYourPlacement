@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0870-magic-squares-in-grid](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0870-magic-squares-in-grid](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
