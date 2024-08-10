@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0100-same-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0870-magic-squares-in-grid](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+| [0999-regions-cut-by-slashes](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 ## Linked List
 |  |
 | ------- |
@@ -403,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0322-coin-change) |
+| [0999-regions-cut-by-slashes](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Heap (Priority Queue)
 |  |
