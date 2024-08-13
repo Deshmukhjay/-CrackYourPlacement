@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0047-permutations-ii) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0040-combination-sum-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Deshmukhjay/-CrackYourPlacement/tree/master/0079-word-search) |
